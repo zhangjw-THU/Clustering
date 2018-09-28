@@ -1,0 +1,111 @@
+Hierarchical:
+data_number:500
+Hierarchical Clustring (k=10) of MNIST :
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 3], [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 4, 4, 4, 6, 6], [4, 8, 4, 9, 9, 9, 7, 0, 4, 4, 9, 9, 9, 7, 9, 9, 9, 7, 7, 7, 7, 4, 7, 9, 4, 4, 9, 7, 4, 7, 9, 7, 4, 4, 9, 9, 9, 4, 7, 9, 9, 9, 4, 9, 8, 5, 9, 9, 4, 9, 9, 7, 9, 9, 9, 9, 9, 9, 9, 4, 4, 9, 9, 4, 7, 7, 7, 9, 1, 3, 3, 9, 3, 3, 5, 3, 9, 9, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4], [2, 2, 0, 4, 0, 7, 7, 7, 7, 7, 4, 0, 6, 0, 0, 0, 0, 5, 7, 9, 0, 7], [0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [4, 5, 3, 5, 5, 8, 5, 5, 8, 5, 8, 3, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 9, 5, 3, 3, 3, 8, 5, 5, 3, 5, 5, 5, 3, 8, 3], [1, 6, 2, 2, 2, 2, 2, 2, 2, 2, 5, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 7, 7, 8, 8, 8, 5, 8, 8, 8, 4, 5, 2, 2, 2, 4, 6, 1, 2, 6, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [3, 3, 9, 3, 1, 5, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 1, 8, 8, 8, 8, 8, 8, 3, 3, 8, 3, 3, 8, 8, 3, 8, 8, 8, 2, 8, 8, 2, 2, 2, 2, 2, 5, 5, 2, 2, 5, 5, 2, 5, 5, 0, 5, 3, 2, 2, 2, 5, 5, 5, 5, 5, 7, 5, 5, 5, 8, 5, 5, 9, 9, 4, 4, 4, 7, 4, 9, 7, 7, 5, 7, 5, 4, 4]]
+('clustring ', 0, ' including points: ', 23)
+('the num of each digital (0~9): ', [23, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+(0, 'account :', 1.0)
+('clustring ', 1, ' including points: ', 21)
+('the num of each digital (0~9): ', [0, 0, 2, 19, 0, 0, 0, 0, 0, 0])
+(3, 'account :', 0.9047619047619048)
+('clustring ', 2, ' including points: ', 45)
+('the num of each digital (0~9): ', [0, 0, 1, 0, 4, 0, 40, 0, 0, 0])
+(6, 'account :', 0.8888888888888888)
+('clustring ', 3, ' including points: ', 134)
+('the num of each digital (0~9): ', [1, 1, 0, 5, 36, 2, 0, 38, 2, 49])
+(9, 'account :', 0.3656716417910448)
+('clustring ', 4, ' including points: ', 22)
+('the num of each digital (0~9): ', [8, 0, 2, 0, 2, 1, 1, 7, 0, 1])
+(0, 'account :', 0.36363636363636365)
+('clustring ', 5, ' including points: ', 18)
+('the num of each digital (0~9): ', [1, 0, 17, 0, 0, 0, 0, 0, 0, 0])
+(2, 'account :', 0.9444444444444444)
+('clustring ', 6, ' including points: ', 16)
+('the num of each digital (0~9): ', [16, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+(0, 'account :', 1.0)
+('clustring ', 7, ' including points: ', 37)
+('the num of each digital (0~9): ', [0, 0, 0, 17, 1, 13, 0, 0, 5, 1])
+(3, 'account :', 0.4594594594594595)
+('clustring ', 8, ' including points: ', 99)
+('the num of each digital (0~9): ', [0, 63, 18, 0, 3, 3, 4, 2, 6, 0])
+(1, 'account :', 0.6363636363636364)
+('clustring ', 9, ' including points: ', 85)
+('the num of each digital (0~9): ', [1, 2, 12, 9, 6, 20, 0, 5, 26, 4])
+(8, 'account :', 0.3058823529411765)
+
+
+##########################################################################
+Kmeans:
+points:500
+n_components:70
+<1>
+km.initialize_centers_specific
+Kmeans (k=10) of MNIST :
+('clustring ', 0, ' including points: ', 44)
+('the num of each digital (0~9): ', [42, 0, 0, 0, 0, 1, 1, 0, 0, 0])
+(0, 'account :', 0.9545454545454546)
+('clustring ', 1, ' including points: ', 101)
+('the num of each digital (0~9): ', [1, 64, 11, 0, 3, 12, 3, 4, 3, 0])
+(1, 'account :', 0.6336633663366337)
+('clustring ', 2, ' including points: ', 31)
+('the num of each digital (0~9): ', [0, 0, 30, 0, 0, 0, 0, 1, 0, 0])
+(2, 'account :', 0.967741935483871)
+('clustring ', 3, ' including points: ', 30)
+('the num of each digital (0~9): ', [0, 0, 2, 27, 0, 0, 0, 0, 0, 1])
+(3, 'account :', 0.9)
+('clustring ', 4, ' including points: ', 33)
+('the num of each digital (0~9): ', [0, 0, 0, 1, 13, 0, 0, 7, 1, 11])
+(4, 'account :', 0.3939393939393939)
+('clustring ', 5, ' including points: ', 59)
+('the num of each digital (0~9): ', [4, 1, 3, 20, 0, 19, 2, 1, 7, 2])
+(3, 'account :', 0.3389830508474576)
+('clustring ', 6, ' including points: ', 47)
+('the num of each digital (0~9): ', [2, 0, 3, 0, 2, 1, 39, 0, 0, 0])
+(6, 'account :', 0.8297872340425532)
+('clustring ', 7, ' including points: ', 47)
+('the num of each digital (0~9): ', [0, 0, 1, 1, 7, 0, 0, 25, 0, 13])
+(7, 'account :', 0.5319148936170213)
+('clustring ', 8, ' including points: ', 31)
+('the num of each digital (0~9): ', [1, 1, 0, 0, 0, 2, 0, 0, 27, 0])
+(8, 'account :', 0.8709677419354839)
+('clustring ', 9, ' including points: ', 77)
+('the num of each digital (0~9): ', [0, 0, 2, 1, 27, 4, 0, 14, 1, 28])
+(9, 'account :', 0.36363636363636365)
+
+<2>km.initialize_centers_random
+Kmeans (k=10) of MNIST :
+('clustring ', 0, ' including points: ', 53)
+('the num of each digital (0~9): ', [0, 35, 7, 1, 2, 1, 2, 4, 1, 0])
+(1, 'account :', 0.6591337099811676)
+('clustring ', 1, ' including points: ', 49)
+('the num of each digital (0~9): ', [3, 0, 2, 0, 2, 2, 40, 0, 0, 0])
+(6, 'account :', 0.8146639511201629)
+('clustring ', 2, ' including points: ', 68)
+('the num of each digital (0~9): ', [0, 1, 2, 4, 20, 2, 0, 12, 2, 25])
+(9, 'account :', 0.3671071953010279)
+('clustring ', 3, ' including points: ', 48)
+('the num of each digital (0~9): ', [2, 0, 3, 23, 0, 12, 0, 0, 6, 2])
+(3, 'account :', 0.47817047817047814)
+('clustring ', 4, ' including points: ', 14)
+('the num of each digital (0~9): ', [5, 0, 0, 0, 7, 0, 0, 2, 0, 0])
+(4, 'account :', 0.49645390070921985)
+('clustring ', 5, ' including points: ', 0)
+('the num of each digital (0~9): ', [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+(0, 'account :', 0.0)
+('clustring ', 6, ' including points: ', 42)
+('the num of each digital (0~9): ', [40, 0, 0, 0, 0, 1, 1, 0, 0, 0])
+(0, 'account :', 0.9501187648456056)
+('clustring ', 7, ' including points: ', 91)
+('the num of each digital (0~9): ', [0, 29, 8, 0, 3, 20, 2, 4, 25, 0])
+(1, 'account :', 0.318331503841932)
+('clustring ', 8, ' including points: ', 55)
+('the num of each digital (0~9): ', [0, 0, 30, 21, 0, 0, 0, 0, 4, 0])
+(2, 'account :', 0.5444646098003629)
+('clustring ', 9, ' including points: ', 80)
+('the num of each digital (0~9): ', [0, 1, 0, 1, 18, 1, 0, 30, 1, 28])
+(7, 'account :', 0.37453183520599254)
+
+
+clustring :
+
+
